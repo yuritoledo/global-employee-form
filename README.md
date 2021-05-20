@@ -7,4 +7,4 @@
 - Yup
 - Styled components
 
-[Here is one Technical Proposal](./technical_proposal)
+[Here is one Technical Proposal](./technical_proposal.md)
